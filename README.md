@@ -1,4 +1,4 @@
-# Space-Logitics
+# Space-Logistics
 Research of Space/Interplanetary Logistics
 
 ## Papers
