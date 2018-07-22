@@ -12,6 +12,8 @@ Research of Space/Interplanetary Logistics
 
 - Artificial intelligence application to space logistics [(pdf)](https://arc.aiaa.org/doi/abs/10.2514/6.1988-4754)
 
+- Logistics Lessons Learned in NASA Space Flight [(pdf)](http://hdl.handle.net/2060/20110022528)
+
 ## Journal & Conference
 - airospace research central [(link)](https://arc.aiaa.org/)
 
